@@ -27,7 +27,7 @@ Hi, I'm beifengtz, for some reason I had to register as tzfun on github. I am a 
 
 ## My Journey to Programming
 
-- 💥 In 2017, I first learned about website programming in college and created my first personal: [VR360](http://vr.beifengtz.com/)
+- 💥 In 2017, I first learned about website programming in college and created my first website: [VR360](http://vr.beifengtz.com/)
 - 🚀 In 2019, I developed a voting system, a campus sports meeting website, an official college website, etc. for my university.
 - 💻 In 2020, I graduated from university and joined NetEase Game as a game server development engineer.
 - ⛵ In 2021, I open-sourced my first project: [Jvmm](https://github.com/tzfun/jvmm), a lightweight JVM performance monitor.
@@ -60,3 +60,11 @@ Hi, I'm beifengtz, for some reason I had to register as tzfun on github. I am a 
 
 ## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=java,spring,typescript,javascript,html,github,docker,bash,rust,tauri,md,vim,vue,gradle,linux,git,grafana,mysql,redis,nginx,vscode,ansible,prometheus&theme=light)](https://github.com/tzfun)
+
+## Contact
+
+- 📨: beifengtz@qq.com
+- <img src="img/wechat.png" width=18 height=18 align=center alt="github">: beifeng-tz
+- <img src="img/github.png" width=18 height=18 align=center alt="github">: tzfun
+- <img src="img/gitee.png" width=18 height=18 align=center alt="gitee">: tzfun
+- <img src="img/facebook.png" width=18 height=18 align=center alt="facebook">: [tz.beifeng](https://www.facebook.com/tz.beifeng?mibextid=LQQJ4d)
