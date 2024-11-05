@@ -41,30 +41,27 @@ Hi, I'm beifengtz, for some reason I had to register as tzfun on github. I am a 
 
 <div >
 <a href="https://github.com/tzfun/jvmm">
-<img src="https://github.com/tzfun/jvmm/raw/master/doc/jvmm.png" width="200">
+<img src="https://github.com/tzfun/jvmm/raw/master/doc/jvmm.png" width="200" alt="jvmm">
 </a>
-<a href="https://tzfun.github.io/vue-web-terminal/" style="margin-right:20px;">
+<a href="https://tzfun.github.io/vue-web-terminal/" style="margin-right:20px;" alt="vue-web-terminal">
 <img src="https://github.com/tzfun/vue-web-terminal/raw/vue3/public/logo.png" width="100">
 </a>
 <a href="https://tzfun.github.io/etcd-workbench/">
-    <img src="https://github.com/tzfun/etcd-workbench/raw/master/web/src/assets/logo.png" width="100">
+    <img src="https://github.com/tzfun/etcd-workbench/raw/master/web/src/assets/logo.png" width="100" alt="Etcd Workbench">
 </a>
 </div>
 
 ## My Skills
 
-- **Backend development**: 90%
-- **Web development**: 70%
-- **Desktop App development**: 50%
-- **Mobile App development**: learning... maybe 20% ?
+☁️ **Back End** / 🍑 **Front End(Web)** / 💻 **Desktop App** / 📱 **Mobile App**
 
 ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=java,spring,typescript,javascript,html,github,docker,bash,rust,tauri,md,vim,vue,gradle,linux,git,grafana,mysql,redis,nginx,vscode,ansible,prometheus&theme=light)](https://github.com/tzfun)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,typescript,javascript,html,github,docker,bash,rust,tauri,md,vim,vue,gradle,python,vite,linux,git,grafana,mysql,redis,nginx,vscode,ansible,prometheus,npm&theme=light)](https://github.com/tzfun)
 
 ## Contact
 
-- 📨: beifengtz@qq.com
-- <img src="img/wechat.png" width=18 height=18 align=center alt="github">: beifeng-tz
-- <img src="img/github.png" width=18 height=18 align=center alt="github">: tzfun
-- <img src="img/gitee.png" width=18 height=18 align=center alt="gitee">: tzfun
-- <img src="img/facebook.png" width=18 height=18 align=center alt="facebook">: [tz.beifeng](https://www.facebook.com/tz.beifeng?mibextid=LQQJ4d)
+[![email](https://img.shields.io/badge/-beifengtz@qq.com-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:beifengtz@qq.com)
+[![GitHub](https://img.shields.io/badge/tzfun-black?labelColor=black&logo=github&logoColor=white&style=flat-square)](./)
+[![Gitee](https://img.shields.io/badge/tzfun-black?labelColor=black&logo=gitee&logoColor=white&style=flat-square)](https://gitee.com/tzfun)
+[![WeChat](https://img.shields.io/badge/beifeng--tz-black?labelColor=black&logo=wechat&logoColor=white&style=flat-square)](./)
+[![Facebook](https://img.shields.io/badge/-tz.beifeng-black?labelColor=black&logo=facebook&logoColor=white&style=flat-square)](https://www.facebook.com/tz.beifeng?mibextid=LQQJ4d)
