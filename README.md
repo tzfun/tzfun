@@ -34,7 +34,7 @@ Hi, I'm beifengtz, for some reason I had to register as tzfun on github. I am a 
 - 📺 In 2022, I open-sourced a web terminal plugin: [vue-web-terminal](https://tzfun.github.io/vue-web-terminal/).
 - 🍎 In 2023, in order to get a free and better ETCD management experience, I open-sourced an ETCD client: [etcd-workbench](https://tzfun.github.io/etcd-workbench/).
 - 📱 In 2024, I learned Rust and used it to refactor [etcd-workbench](https://tzfun.github.io/etcd-workbench/) into a desktop application.
-- 🎇 Now, I am learning more new things to realize my plan of becoming a full-stack developer, such as using Rust to develop server programs with better performance, using Swift to develop Apple apps, etc.
+- 🎇 Now, I am learning more new things to realize my plan of becoming a full-stack developer, such as mobile app development, blockchain development, etc.
 
 
 ## My Projects
@@ -47,13 +47,15 @@ Hi, I'm beifengtz, for some reason I had to register as tzfun on github. I am a 
 <img src="https://github.com/tzfun/vue-web-terminal/raw/vue3/public/logo.png" width="100">
 </a>
 <a href="https://tzfun.github.io/etcd-workbench/">
-    <img src="https://github.com/tzfun/etcd-workbench/raw/master/web/src/assets/logo.png" width="100" alt="Etcd Workbench">
+    <img src="https://github.com/tzfun/etcd-workbench/raw/master/app/src-tauri/icons/windows/icon.png" width="100" alt="Etcd Workbench">
 </a>
 </div>
 
 ## My Skills
 
-☁️ **Back End** / 🍑 **Front End(Web)** / 💻 **Desktop App** / 📱 **Mobile App**
+☁️ **Back End** / 🍑 **Front End(Web)** / 💻 **Desktop App**
+
+**Java** / **Rust** / **JS&TS** / **Html&CSS** / **Python**
 
 ## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=java,spring,typescript,javascript,html,github,docker,bash,rust,tauri,md,vim,vue,gradle,python,vite,linux,git,grafana,mysql,redis,nginx,vscode,ansible,prometheus,npm&theme=light)](https://github.com/tzfun)
