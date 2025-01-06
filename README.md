@@ -44,7 +44,7 @@ Hi, I'm beifengtz, for some reason I had to register as tzfun on github. I am a 
 <img src="https://github.com/tzfun/jvmm/raw/master/doc/jvmm.png" width="200" alt="jvmm">
 </a>
 <a href="https://tzfun.github.io/vue-web-terminal/" style="margin-right:20px;" alt="vue-web-terminal">
-<img src="https://github.com/tzfun/vue-web-terminal/raw/vue3/public/logo.png" width="100">
+<img src="https://github.com/tzfun/vue-web-terminal/raw/vue3/shortcut/logo.png" width="100">
 </a>
 <a href="https://tzfun.github.io/etcd-workbench/">
     <img src="https://github.com/tzfun/etcd-workbench/raw/master/app/src-tauri/icons/windows/icon.png" width="100" alt="Etcd Workbench">
