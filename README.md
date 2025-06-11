@@ -10,8 +10,7 @@ width="800"  height="3">
 
 ## Hi, I'm beifengtz 👋
 
-Hi, I'm beifengtz, for some reason I had to register as tzfun on github. I am a backend developer from China🇨🇳 and I am working hard to become a full stack developer.
-
+Hello! I'm beifengtz, a backend development engineer who also knows some frontend programming.
 
 <picture>
   <source
@@ -27,15 +26,10 @@ Hi, I'm beifengtz, for some reason I had to register as tzfun on github. I am a 
 
 ## My Journey to Programming
 
-- 💥 In 2017, I first learned about website programming in college and created my first website: [VR360](http://vr.beifengtz.com/)
-- 🚀 In 2019, I developed a voting system, a campus sports meeting website, an official college website, etc. for my university.
-- 💻 In 2020, I graduated from university and joined NetEase Game as a game server development engineer.
+- 💥 In college, I started learning programming and wrote my first program: [VR360](http://vr.beifengtz.com/). And I built various systems for my school such as an event voting platform, sports day management system, and departmental website.
 - ⛵ In 2021, I open-sourced my first project: [Jvmm](https://github.com/tzfun/jvmm), a lightweight JVM performance monitor.
 - 📺 In 2022, I open-sourced a web terminal plugin: [vue-web-terminal](https://tzfun.github.io/vue-web-terminal/).
-- 🍎 In 2023, in order to get a free and better ETCD management experience, I open-sourced an ETCD client: [etcd-workbench](https://tzfun.github.io/etcd-workbench/).
-- 📱 In 2024, I learned Rust and used it to refactor [etcd-workbench](https://tzfun.github.io/etcd-workbench/) into a desktop application.
-- 🎇 Now, I am learning more new things to realize my plan of becoming a full-stack developer, such as mobile app development, blockchain development, etc.
-
+- 🍎 In 2023, I open-sourced an [etcd](https://etcd.io/) client: [etcd-workbench](https://tzfun.github.io/etcd-workbench/).
 
 ## My Projects
 
@@ -53,12 +47,22 @@ Hi, I'm beifengtz, for some reason I had to register as tzfun on github. I am a 
 
 ## My Skills
 
-☁️ **Back End** / 🍑 **Front End(Web)** / 💻 **Desktop App**
+☁️ **Back End** / 🌐 **Front End** / 💻 **Desktop App** / 📱 **Mobile App**
 
-**Java** / **Rust** / **JS&TS** / **Html&CSS** / **Python**
+## Languages
 
-## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=java,spring,typescript,javascript,html,github,docker,bash,rust,tauri,md,vim,vue,gradle,python,vite,linux,git,grafana,mysql,redis,nginx,vscode,ansible,prometheus,npm&theme=light)](https://github.com/tzfun)
+![Languages](https://skillicons.dev/icons?i=java,rust,typescript,javascript,html,css,python,bash,md)
+
+## Enviroment
+
+![Enviroment](https://skillicons.dev/icons?i=linux,debian,windows,git,idea,webstorm,vite,npm,vscode,vim,gradle,maven,npm,pnpm,vim)
+
+## Framework
+
+![Framework](https://skillicons.dev/icons?i=tauri,spring,vue,actix,vuetify)
+
+## Tools
+[![Tools](https://skillicons.dev/icons?i=docker,mysql,redis,nginx,github,ansible,elasticsearch,grafana,prometheus,postman,jenkins&theme=dark)](https://github.com/tzfun)
 
 ## Contact
 
