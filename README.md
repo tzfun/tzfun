@@ -55,7 +55,7 @@ Hello! I'm beifengtz, a backend development engineer who also knows some fronten
 
 ## Enviroment
 
-![Enviroment](https://skillicons.dev/icons?i=linux,debian,windows,git,idea,webstorm,vite,npm,vscode,vim,gradle,maven,npm,pnpm,vim)
+![Enviroment](https://skillicons.dev/icons?i=linux,debian,windows,git,idea,webstorm,vite,npm,pnpm,vscode,vim,gradle,maven)
 
 ## Framework
 
